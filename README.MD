@@ -21,3 +21,9 @@ This works for both presence and non-presence sessions.
 This is currently an unpublished extension.
 
 Download the files and then follow the instructions [here](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked) to load the unpacked version directly into your browser.
+
+# Release Notes
+
+## October 4, 2023
+
+- Initial release.
