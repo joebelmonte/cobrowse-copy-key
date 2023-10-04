@@ -15,3 +15,9 @@ This works for both presence and non-presence sessions.
 # Limitations
 
 1. Because it relies on identifying the `glance_ssn_key` element, it will likely not work for pages using a custom UI.
+
+# Installation
+
+This is currently an unpublished extension.
+
+Download the files and then follow the instructions [here](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked) to load the unpacked version directly into your browser.
