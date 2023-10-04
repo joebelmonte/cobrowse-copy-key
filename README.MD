@@ -1,4 +1,4 @@
-# LoginKey Front End
+# Cobrowse Copy Key
 
 **By Joe Belmonte**
 
